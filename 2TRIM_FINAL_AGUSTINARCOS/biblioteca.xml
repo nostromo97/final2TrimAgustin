@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca>
+  <libro>
+    <foto>miki.webp</foto>
+    <titulo>Gato Miki</titulo>
+    <autor>Agustin Arcos Reyes</autor>
+    <fechaPublicacion año="1976"/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <titulo>Las siestas de Senda</titulo>
+    <autor fechaNacimiento="03/12/1997">Agustín Arcos Reyes</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+    <titulo>El gato Summer</titulo>
+    <autor fechaNacimiento="28/03/1936">Agustín Arcos Reyes</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
